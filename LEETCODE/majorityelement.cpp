@@ -1,4 +1,6 @@
 #include<vector.h>
+// we have the use the concept of MOORE'S Voting Algorithm to provide the most optimized solution.
+// First and basic approach was by using with time complexity of n^2.
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
