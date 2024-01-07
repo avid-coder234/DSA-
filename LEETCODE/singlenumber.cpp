@@ -1,3 +1,4 @@
+// whenever we come across the duplicate or single elements then always think of XOR Operation
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
